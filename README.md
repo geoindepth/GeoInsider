@@ -9,7 +9,8 @@ GeoInsider 是关于 geospatial 产业的学习型社群。目前在组织线上
 | Date | Title                                                       | Presenter | Discussion                                                         |
 |------|-------------------------------------------------------------|-----------|--------------------------------------------------------------------|
 | TBD  | gee or dl: how to start tinyproject to do big data analysis | TBD       | [Ask presenters](https://github.com/suredream/GeoInsider/issues/1) |
-| TBD  | how to find a intern in the EO industry                     | TBD       | [Ask presenters](https://github.com/suredream/GeoInsider/issues/2)                                                                   |
+| TBD  | how to find a intern in the EO industry                     | TBD       | [Ask presenters](https://github.com/suredream/GeoInsider/issues/2) |
+| TBD  | how to Think Like a Remote Sensing Scientist                | TBD       | [Ask presenters](https://github.com/suredream/GeoInsider/issues/3) |                                                              |
 
 ## 参与方式
 
