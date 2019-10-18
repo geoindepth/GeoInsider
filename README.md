@@ -1,18 +1,18 @@
 # GeoInsider 
 
-GeoInsider 社群 repo.
-
-## 简介
-
 GeoInsider 是关于 EO 产业的学习型社群。每周四 7 点线上 zoom 交流（美西时间）：
 
-| Date     | Title                                            | Presenter    | Discussion                                                   |
-| -------- | ------------------------------------------------ | ------------ | ------------------------------------------------------------ |
-| 10/17/19 | how to start tinyproject to do big data analysis | Liheng Zhong | [Ask presenters](https://github.com/suredream/GeoInsider/issues/1) |
-| 10/24/19 | Building a cloud-based EO platform from scratch  | Hang Zhou    | [Ask presenters](https://github.com/suredream/GeoInsider/issues/2) |
-| TBD      |                                                  | TBD          | [Ask presenters](https://github.com/suredream/GeoInsider/issues/3) |
+## 活动日程
+
+| Date     | Title                                                       | Presenter    | Discussion                                                   |
+| -------- | ----------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
+| 10/17/19 | how to start tinyproject to do big data analysis            | Liheng Zhong | [Ask presenters](https://github.com/suredream/GeoInsider/issues/1) |
+| 10/24/19 | Building a cloud-based EO platform from scratch             | Hang Zhou    | [Ask presenters](https://github.com/suredream/GeoInsider/issues/2) |
+| TBD      | Remote sensing of coral reef ecosystem based on Planet Dove | Jiwei Li     | [Ask presenters](https://github.com/suredream/GeoInsider/issues/3) |
 
 
+
+****
 
 ## how to start a tinyproject to do the big data analysis
 
@@ -26,13 +26,13 @@ GeoInsider 是关于 EO 产业的学习型社群。每周四 7 点线上 zoom �
 
 教程：https://docs.descarteslabs.com/guide.html
 
-
+****
 
 ## Building a cloud-based EO platform from scratch
 
 10/24/19, **Hang Zhou**, Engineer, [https://descarteslabs.com](https://www.descarteslabs.com/)
 
-如何从头设计一个地理大数据云平台，以及如何善待搬砖的自己 [进入讨论区](https://github.com/suredream/GeoInsider/issues/2)
+如何从头设计一个地理大数据云平台，以及做项目时如何善待搬砖的自己 [进入讨论区](https://github.com/suredream/GeoInsider/issues/2)
 
 大纲：
 
