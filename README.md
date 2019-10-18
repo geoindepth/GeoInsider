@@ -4,13 +4,39 @@ GeoInsider 社群 repo.
 
 ## 简介
 
-GeoInsider 是关于 geospatial 产业的学习型社群。目前在组织线上 zoom 交流活动：
+GeoInsider 是关于 EO 产业的学习型社群。每周四 7 点线上 zoom 交流（美西时间）：
 
-| Date | Title                                                       | Presenter | Discussion                                                         |
-|------|-------------------------------------------------------------|-----------|--------------------------------------------------------------------|
-| TBD  | gee or dl: how to start tinyproject to do big data analysis | TBD       | [Ask presenters](https://github.com/suredream/GeoInsider/issues/1) |
-| TBD  | how to find a intern in the EO industry                     | TBD       | [Ask presenters](https://github.com/suredream/GeoInsider/issues/2) |
-| TBD  | how to Think Like a Remote Sensing Scientist                | TBD       | [Ask presenters](https://github.com/suredream/GeoInsider/issues/3) |                                                              |
+| Date     | Title                                            | Presenter    | Discussion                                                   |
+| -------- | ------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| 10/17/19 | how to start tinyproject to do big data analysis | Liheng Zhong | [Ask presenters](https://github.com/suredream/GeoInsider/issues/1) |
+| 10/24/19 | Building a cloud-based EO platform from scratch  | Hang Zhou    | [Ask presenters](https://github.com/suredream/GeoInsider/issues/2) |
+| TBD      |                                                  | TBD          | [Ask presenters](https://github.com/suredream/GeoInsider/issues/3) |
+
+
+
+## how to start a tinyproject to do the big data analysis
+
+**Liheng Zhong**, Applied Scientist, [https://descarteslabs.com](https://www.descarteslabs.com/)
+
+如何在 notebook 里玩转地理大数据 [进入讨论区](https://github.com/suredream/GeoInsider/issues/1)
+
+笛卡尔实验室平台申请：https://descarteslabs.com/application
+
+文档：https://docs.descarteslabs.com/
+
+教程：https://docs.descarteslabs.com/guide.html
+
+
+
+## Building a cloud-based EO platform from scratch
+
+10/24/19, **Hang Zhou**, Engineer, [https://descarteslabs.com](https://www.descarteslabs.com/)
+
+如何从头设计一个地理大数据云平台，以及如何善待搬砖的自己 [进入讨论区](https://github.com/suredream/GeoInsider/issues/2)
+
+大纲：
+
+
 
 ## 参与方式
 
