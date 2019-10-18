@@ -30,9 +30,9 @@ GeoInsider 是关于 EO 产业的学习型社群。每周四 7 点线上 zoom �
 
 ## Building a cloud-based EO platform from scratch
 
-10/24/19, **Hang Zhou**, Engineer, [https://descarteslabs.com](https://www.descarteslabs.com/)
+10/24/19 **Hang Zhou**  [Descartes Labs](https://descarteslabs.com)
 
-如何从头设计一个地理大数据云平台，以及做项目时如何善待搬砖的自己 [进入讨论区](https://github.com/suredream/GeoInsider/issues/2)
+如何从头设计一个地理大数据云平台，以及如何善待搬砖这件事 [进入讨论区](https://github.com/suredream/GeoInsider/issues/2)
 
 大纲：
 
