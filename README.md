@@ -4,39 +4,21 @@ GeoInsider 是关于 EO 产业的学习型社群。每周四 7 点线上 zoom �
 
 ## 活动日程
 
-| Date     | Title                                                       | Presenter    | Discussion                                                   |
+| Date     | Title                                                       | Presenter    | Video (pwd)                                                  |
 | -------- | ----------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
-| 10/17/19 | how to start tinyproject to do big data analysis            | Liheng Zhong | [Ask presenters](https://github.com/suredream/GeoInsider/issues/1) |
-| 10/24/19 | Building a cloud-based EO platform from scratch             | Hang Zhou    | [Ask presenters](https://github.com/suredream/GeoInsider/issues/2) |
-| TBD      | Remote sensing of coral reef ecosystem based on Planet Dove | Jiwei Li     | [Ask presenters](https://github.com/suredream/GeoInsider/issues/3) |
+| 10/17/19 | how to start tinyproject to do big data analysis            | Liheng Zhong | video                                                        |
+| 10/24/19 | Building a cloud-based EO platform from scratch             | Hang Zhou    | video                                                        |
+| 10/30/19 | Remote sensing of coral reef ecosystem based on Planet Dove | Jiwei Li     | video                                                        |
+| 11/07/19 | 遥感产业洞察交流                                            | Qinyuan Feng |                                                              |
+| 11/14/19 | **植被制图在南美洲公共健康研究中的应用和需求**              | **居阳**     | [video](https://pan.baidu.com/s/1pft2pZYC8YGGoAIP9myj9Q ) f8vs |
+|          | GIS urban analytics+UK的高教体系+遥感GIS现状                | Qunshan Zhao | video                                                        |
+|          |                                                             |              |                                                              |
+|          |                                                             |              |                                                              |
+|          |                                                             |              |                                                              |
 
-
-
-****
-
-## how to start a tinyproject to do the big data analysis
-
-**Liheng Zhong**, Applied Scientist, [https://descarteslabs.com](https://www.descarteslabs.com/)
-
-如何在 notebook 里玩转地理大数据 [进入讨论区](https://github.com/suredream/GeoInsider/issues/1)
-
-笛卡尔实验室平台申请：https://descarteslabs.com/application
-
-文档：https://docs.descarteslabs.com/
-
-教程：https://docs.descarteslabs.com/guide.html
-
-****
-
-## Building a cloud-based EO platform from scratch
-
-10/24/19 **Hang Zhou**  [Descartes Labs](https://descarteslabs.com)
-
-如何从头设计一个地理大数据云平台，以及如何善待搬砖这件事 [进入讨论区](https://github.com/suredream/GeoInsider/issues/2)
-
-大纲：
-
-
+```
+视频汇总链接: https://pan.baidu.com/s/1Pvrobma3AtfpP1BpUMguaw 提取码: pejd 
+```
 
 ## 参与方式
 
@@ -45,3 +27,5 @@ GeoInsider 是关于 EO 产业的学习型社群。每周四 7 点线上 zoom �
 - 成为主要协作者，可以直接向[本repo](https://github.com/suredream/GeoInsider)提交修改
 - 通过 [GitHub Issues](https://github.com/suredream/GeoInsider/issues)，提交内容或评论
 - 加入微信群并留言
+
+开源项目
